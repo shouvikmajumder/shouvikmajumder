@@ -2,7 +2,7 @@
 
 ### Experience
 * **Software Engineer** | Lockheed Martin
-### 2024 Impact Magazine 
+### Cool Stuff
   * **Featured in:** [Penn State 2024 Impact Magazine](https://www.ems.psu.edu/sites/ems/files/2024%20Impact%20Magazine%20FINAL%20web.pdf)
   * **Summary:** Built software to help detect geohazards
 ### Connect With Me
