@@ -1,4 +1,4 @@
-# Hi, I'm Shouvik Majumder 
+# Hi, I'm Shouvik 
 
 ### 💼 Experience
 * **Software Engineer** | Lockheed Martin
