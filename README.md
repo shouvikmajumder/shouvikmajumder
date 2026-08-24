@@ -6,5 +6,5 @@
   * **Summary:** Built a software tool using Python and Qt Designer to analyze signal data across 2,000+ sensor channels[cite: 1]. Integrated ObsPy frequency plots and bandpass filtering to improve signal clarity for low-amplitude seismic detection.
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/shouvikmajumder](https://linkedin.com/in/shouvikmajumder)]
-* **Email:** [shouvikprism@gmail.com](mailto:shouvikprism@gmail.com)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/shouvikmajumder](https://linkedin.com/in/shouvikmajumder)
+* **Email:** [shouvikprism@gmail.com](mailto:shouvikprism@gmail.com)
