@@ -12,7 +12,7 @@
 
 ---
 
-### 📰 Featured Press & Research
+### 📰 Featured
 
 | Feature | Highlight | Link |
 | :--- | :--- | :--- |
@@ -20,6 +20,3 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-`C++` `Python` `Java` `Linux` `Docker` `gRPC` `PostgreSQL` `React Native`
