@@ -8,7 +8,6 @@
 ### 💻 Work Experience
 
 * **Software Engineer** | **Lockheed Martin**  
-  * *Infrastructure & Systems Engineering*
 
 ---
 
